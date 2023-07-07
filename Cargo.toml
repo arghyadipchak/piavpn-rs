@@ -1,4 +1,12 @@
 [package]
 name = "piavpn"
 version = "0.0.0"
+authors = ["Arghyadip Chakraborty <arghyadip.chak16@gmail.com>"]
 edition = "2021"
+description = "Private Internet Access (https://www.privateinternetaccess.com)"
+readme = "README.md"
+homepage = "https://github.com/arghyadipchak/piavpn-rs"
+repository = "https://github.com/arghyadipchak/piavpn-rs"
+license = "MIT"
+keywords = ["pia", "vpn", "openvpn", "wireguard"]
+categories = ["vpn"]
